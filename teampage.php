@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css"
           href="styles.css">
 </head>
-   
+
 <body >
 
 <?php
@@ -17,6 +17,7 @@
 	<h2 style="border: 1px solid red;">Dog project</h2>
 	Team pagessssss .....
 <img src="images/boxerbreed.jpg">
+<img src="images/bixer2.jpg">
 
 </body>
 </html>
