@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" filePermissions="493" folderPermissions="493" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="acad276server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dogproject" local="$PROJECT_DIR$" web="/dogproject" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="iayserver-good">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="iyaserver">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
