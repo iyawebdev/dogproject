@@ -7,11 +7,16 @@
           href="styles.css">
 </head>
 
-<body>
+<body >
 
-<?php include "logo.php" ?>
+<?php
+    include "logo.php";
+//    include "nav.php";
+?>
 
-	<h2>Dog project</h2>
+	<h2 style="border: 1px solid red;">Dog project</h2>
 	Team pagessssss .....
+<img src="images/boxerbreed.jpg">
+
 </body>
 </html>
