@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Dogs! GitTest</title>
+    <title>Dogs Gittest Project in Dev2</title>
     <link rel="stylesheet" type="text/css"
           href="styles.css">
 </head>
