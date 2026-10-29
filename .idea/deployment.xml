@@ -6,7 +6,7 @@
       <paths name="acad276server">
         <serverdata>
           <mappings>
-            <mapping deploy="/dogproject" local="$PROJECT_DIR$" web="/dogproject" />
+            <mapping deploy="/public_html/dogproject" local="$PROJECT_DIR$" web="/dogproject" />
           </mappings>
         </serverdata>
       </paths>

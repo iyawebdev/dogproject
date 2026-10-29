@@ -9,15 +9,17 @@
 
 <body >
 
+<?php include 'includes/header.php' ?>
+<?php include 'includes/nav.php' ?>
+
 <?php
-    include "logo.php";
+    include "includes/logo.php";
 //    include "nav.php";
 ?>
 
-	<h2 style="border: 1px solid red;">Dog project</h2>
-	Team pagessssss .....
-<img src="images/boxerbreed.jpg">
 <img src="images/bixer2.jpg">
+
+<img src="images/boxerbreed.jpg">
 
 </body>
 </html>
